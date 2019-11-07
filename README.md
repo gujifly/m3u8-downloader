@@ -34,13 +34,22 @@ python3   m3u8_downloader.py   https://xxxxx/xxx/index.m3u8    moviename
 **示例：**  
 python3  m3u8_downloader.py   https://xxxxx/xxx/index.m3u8    zhizhuxia  
 python3  m3u8_downloader.py   https://xxxxx/xxx/index.m3u8    mymovie  
-![获取m3u8文件](https://github.com/gujifly/m3u8-downloader/blob/master/img/0000.png)  
+
+**截图：**  
+  
+![获取m3u8文件](https://github.com/gujifly/m3u8-downloader/blob/master/img/0000.png) 
+
 ![下载截图](https://github.com/gujifly/m3u8-downloader/blob/master/img/0001.png)  
+
 ![合并截图](https://github.com/gujifly/m3u8-downloader/blob/master/img/0002.png)  
+
 ![部分文件下载失败](https://github.com/gujifly/m3u8-downloader/blob/master/img/0003.png)  
+
 ![断点续传](https://github.com/gujifly/m3u8-downloader/blob/master/img/0004.png)  
+
 ![合并成功](https://github.com/gujifly/m3u8-downloader/blob/master/img/0005.png)  
-![播放成功](https://github.com/gujifly/m3u8-downloader/blob/master/img/0006.png)
+
+![播放成功](https://github.com/gujifly/m3u8-downloader/blob/master/img/0006.png)  
       
 **注意事项：**  
 
